@@ -1,0 +1,7 @@
+{
+  "xalman-hub": "https://xalman-apis.vercel.app",
+  "xalman-downloader": "https://xalman-downloader.vercel.app",
+  "xalman-imagefilter": "<imagefilter API URL>",
+  "xalman-td": "<truthordare API URL>",
+  "xalmanx-caption": "<caption API URL>"
+}
